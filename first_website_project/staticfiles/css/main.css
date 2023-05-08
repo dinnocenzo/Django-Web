@@ -1,0 +1,21 @@
+h3{
+    color: red;
+}
+
+body{
+    background-image: url("/staticfiles/images/12.jpg");
+    background-repeat: repeat-x;
+}
+
+#profile-wrapper{
+    text-align: center;   
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
